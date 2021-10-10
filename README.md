@@ -1,1 +1,15 @@
-# horiseon-challenge-one
+# HORISEON (Landing Page): Challenge One
+
+## Purpose
+A website that offers solutions to online problems in the business world
+
+## Built With
+* HTML
+* CSS
+
+## Deployed App Link
+(https://theprattler.github.io/horiseon-challenge-one/)
+
+## App Preview
+[img](/assets/images/deployed-page-pic.jpg)
+
