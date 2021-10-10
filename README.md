@@ -11,5 +11,5 @@ A website that offers solutions to online problems in the business world
 (https://theprattler.github.io/horiseon-challenge-one/)
 
 ## App Preview
-[img](/assets/images/deployed-page-pic.jpg)
+![Horiseon](deployed-page-pic.jpg)
 
